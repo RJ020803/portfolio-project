@@ -366,8 +366,13 @@
   }
 
   .footer-text-container p{
-  color:white;
+  color:rgb(15, 1, 1);
   word-spacing: 0.1rem;
+  font-size: larger;
+  }
+
+  .footer-text-container span{
+    color: blue;
   }
 
 
